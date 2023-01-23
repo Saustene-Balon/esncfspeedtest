@@ -1,0 +1,7 @@
+2022/02/25 13:44:09 [emerg] 8984#11780: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:44:09 [emerg] 14672#4040: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:44:43 [emerg] 16012#17600: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:44:45 [emerg] 2684#3272: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:44:45 [emerg] 13476#9504: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:45:14 [emerg] 12688#17148: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/02/25 13:45:14 [emerg] 9984#16592: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
